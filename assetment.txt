@@ -1,0 +1,8 @@
+1. There is no file named as code.js, instead I found code1.js and code2.js
+2. There are minor differences in the files in few functions.
+3. In overdue function, the variable array which is used to store overdue task is different i.e. ovd to od 
+   In dueToday function, the variable for storing todays task is different. i.e. tod to td 
+   In dueLater function, the variable for stored tasks which are due later is changed i.e. led to ld.
+4. Apart from that there are some spacing and linebreak differences.
+
+From this, we can clearly see that this file is plagiarized. 
